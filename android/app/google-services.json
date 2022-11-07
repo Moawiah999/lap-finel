@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "279190733000",
+    "project_id": "finle-project-app",
+    "storage_bucket": "finle-project-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279190733000:android:9f3a7ab9911545d94365fd",
+        "android_client_info": {
+          "package_name": "com.example.finleprojectflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279190733000-b2vi6nimee7vagm4qr7ql0hu8t0l3o4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9LAeX6ecGU3kQ5yARwDsuVFEDqeqsWhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279190733000-b2vi6nimee7vagm4qr7ql0hu8t0l3o4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
